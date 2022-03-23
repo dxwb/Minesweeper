@@ -1,0 +1,12 @@
+{
+  "images": [
+    {
+      "name": "win",
+      "url": "resouces/win.png"
+    },
+    {
+      "name": "lose",
+      "url": "resouces/lose.png"
+    }
+  ]
+}
